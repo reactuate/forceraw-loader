@@ -5,7 +5,7 @@ preprocessed by webpack beforehand, as is.
 
 ```js
 require('forceraw?path=filename!.')
-# or
+// or
 import content from 'forceraw?path=filename!.'
 ```
 
